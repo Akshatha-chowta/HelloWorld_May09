@@ -1,6 +1,6 @@
 package test;
 
-public class PrintMmessage {
+public class PrintMessage {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

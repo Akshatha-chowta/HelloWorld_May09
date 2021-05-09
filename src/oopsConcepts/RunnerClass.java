@@ -11,6 +11,15 @@ public class RunnerClass {
 		Emp.Salary=10000;
 		Emp.Orgname="abc";
 		Emp.Display();
+		ClassA Emp1=new ClassA(20000,"Amrith","xyz");
+		ClassB obj=new ClassB();
+		obj.show();
+		obj.Name="chippu";
+		obj.Salary=40000;
+		obj.Orgname="pqr";
+		obj.Display();
+		ClassC obj1=new ClassC();
+		obj1.run();
 	}
 
 }
